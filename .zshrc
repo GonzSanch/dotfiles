@@ -3,6 +3,8 @@ export ZSH="/Users/gsanchez/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 plugins=(
+	docker
+	docker-compose
 	git
 	colored-man-pages
 	zsh-syntax-highlighting
